@@ -18,6 +18,7 @@
 		FE9396E21DF10CB000F9C618 /* PropertyType.m in Sources */ = {isa = PBXBuildFile; fileRef = FE9396E11DF10CB000F9C618 /* PropertyType.m */; };
 		FE9396E51DF1196B00F9C618 /* ExtensionConst.m in Sources */ = {isa = PBXBuildFile; fileRef = FE9396E41DF1196B00F9C618 /* ExtensionConst.m */; };
 		FE9396E81DF1206100F9C618 /* Foundation.m in Sources */ = {isa = PBXBuildFile; fileRef = FE9396E71DF1206100F9C618 /* Foundation.m */; };
+		FE9396EB1DF261F800F9C618 /* PropertyKey.m in Sources */ = {isa = PBXBuildFile; fileRef = FE9396EA1DF261F800F9C618 /* PropertyKey.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,8 @@
 		FE9396E41DF1196B00F9C618 /* ExtensionConst.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExtensionConst.m; sourceTree = "<group>"; };
 		FE9396E61DF1206100F9C618 /* Foundation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Foundation.h; sourceTree = "<group>"; };
 		FE9396E71DF1206100F9C618 /* Foundation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Foundation.m; sourceTree = "<group>"; };
+		FE9396E91DF261F800F9C618 /* PropertyKey.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PropertyKey.h; sourceTree = "<group>"; };
+		FE9396EA1DF261F800F9C618 /* PropertyKey.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PropertyKey.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +130,8 @@
 				FE9396E41DF1196B00F9C618 /* ExtensionConst.m */,
 				FE9396E61DF1206100F9C618 /* Foundation.h */,
 				FE9396E71DF1206100F9C618 /* Foundation.m */,
+				FE9396E91DF261F800F9C618 /* PropertyKey.h */,
+				FE9396EA1DF261F800F9C618 /* PropertyKey.m */,
 			);
 			path = MJReview;
 			sourceTree = "<group>";
@@ -260,6 +265,7 @@
 				FE078B661DE41B9200FD928B /* ViewController.m in Sources */,
 				FE078B631DE41B9200FD928B /* AppDelegate.m in Sources */,
 				FE9396DF1DF10A1300F9C618 /* Property.m in Sources */,
+				FE9396EB1DF261F800F9C618 /* PropertyKey.m in Sources */,
 				FE078B601DE41B9200FD928B /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
